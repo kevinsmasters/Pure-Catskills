@@ -1,0 +1,8 @@
+name = Se7en
+description = Subtheme of Seven. Made for Pure Catskills.
+base theme = seven
+core = 7.x
+
+; Stylesheets
+stylesheets[all][] = css/styles.css
+

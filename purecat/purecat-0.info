@@ -1,0 +1,38 @@
+name = Pure Catskills - Archive
+description = Subtheme of Nevia. Made for Pure Catskills.
+base theme = nevia
+core = 7.x
+
+; Stylesheets
+stylesheets[all][] = css/styles.css
+
+regions[header] = Header
+regions[main_menu] = Main menu
+regions[slider] = Slider
+regions[highlighted] = Highlighted
+regions[sidebar_first]  = Left sidebar
+regions[sidebar_second] = Right sidebar
+regions[content] = Content
+regions[home_recent_work] = Home recent work
+regions[home_recent_news] = Home recent news
+regions[home_testimonial] = Home testimonial
+regions[help] = Help
+regions[page_top] = Page Top
+regions[page_bottom] = Page Bottom
+
+regions[footer_first] = Footer first column
+regions[footer_second] = Footer second column
+regions[footer_third] = Footer third column
+regions[footer_fourth] = Footer fourth column
+regions[footer] = Footer
+
+
+features[] = logo
+features[] = name
+features[] = slogan
+features[] = node_user_picture
+features[] = comment_user_picture
+features[] = comment_user_verification
+features[] = favicon
+
+settings[main_menu_style] = style-1

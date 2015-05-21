@@ -1,0 +1,14 @@
+.ds-3col-stacked-equal input[type="text"] {
+max-width: 80%;
+}
+#edit-field-email-2 { margin-top: 71px; }
+#edit-field-address-2 { margin-top: 182px; }
+#edit-field-zip-code { margin-top: 255px; }
+#edit-field-mailing-address-2 { margin-top: 92px; }
+#edit-field-mailing-zip { margin-top: 90px; }
+.ds-3col-stacked-equal #edit-field-website input[type="text"]{ 
+	max-width: 50%;
+}
+.ds-3col-stacked-equal fieldset { border: none; }
+
+.form-item-field-event-time-und-0-label { display: none; }
